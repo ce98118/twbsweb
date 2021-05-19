@@ -3,6 +3,6 @@ name: Welcome to TWBS
 title: Welcome to TWBS
 author: Twbs dev team
 description:  Software development and BPO Services
-github.is_project_page: false 
-github.is_user_page: false 
+github.is_project_page: FALSE
+github.is_user_page: FALSE
 
