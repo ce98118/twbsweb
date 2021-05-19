@@ -2,8 +2,8 @@
 We are a trusted partner to FinTech clients, delivering software and services to run successful businesses.We understand your needs
 
 ## About us
-We are a young and agile team of technology and software experts, with a distinct background in developing and running financial and payments software, creating development frameworks and strong hands-on experience in getting solutions delivered, deployed, optimized and operated at highest performance levels. If you need an expert team that can conceptualise, build, deliver and run cutting-edge tech in the financial services space – you found them!
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- We are a young and agile team of technology and software experts, with a distinct background in developing and running financial and payments software, creating development frameworks and strong hands-on experience in getting solutions delivered, deployed, optimized and operated at highest performance levels. 
+- If you need an expert team that can conceptualise, build, deliver and run cutting-edge tech in the financial services space – you found them!
 
 ## Our Services
 ### Software development
