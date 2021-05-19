@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to TWBS
 
-You can use the [editor on GitHub](https://github.com/ce98118/twbsweb/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+We are a trusted partner to FinTech clients, delivering software and services to run successful businesses.We understand your needs
+# About us
+## Fintech experts
+We are a young and agile team of technology and software experts, with a distinct background in developing and running financial and payments software, creating development frameworks and strong hands-on experience in getting solutions delivered, deployed, optimized and operated at highest performance levels. If you need an expert team that can conceptualise, build, deliver and run cutting-edge tech in the financial services space – you found them!
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+# Our Services
+## Software development
+- Bespoke Software Development for e-commerce platforms, financial services companies, payment service providers and content distribution providers.
+- TWBS assists e-commerce and financial services companies of any size and speciality with software development and project assistance, from start-ups at the formation stage to mid-sized businesses and large enterprises with a focus on optimization and expansion
 
-# Header 1
-## Header 2
-### Header 3
+## Technology Consulting Services
+- TWBS helps you to smoothly align technology along your processes and your value-creation chain.
+- We assist our clients in identifying, deploying, and managing complex, technology-based solutions in business transformation, expansion, digitalisation, and business outsourcing projects
 
-- Bulleted
-- List
+## Business Process Outsourcing Services
+- Via our internal team of specialist, in combination with our network of partners, we can support our clients in outsourcing a vast number of internal business processes in IT and application management, customer support and internal technical support.
+- By using our standardised, but flexible outsourcing arrangements and frameworks, our clients achieve a higher degree of business efficiency and performance.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ce98118/twbsweb/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Contact us
+Don’t hesitate to reach out to us, if you would like to know more about any of our services.
+TWBS Limited 15, Level 1, Suite 4 Naxxar Road
+Birkirkara, BKR9094
+Malta
+operations@twbs.eu
